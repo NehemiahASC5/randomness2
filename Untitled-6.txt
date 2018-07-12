@@ -1,0 +1,29 @@
+save nubr in variable 
+create an if statment 
+test if variable is divisible by three
+if true print fizz
+test if varibale is divisible by 5 
+if true print buzz 
+
+if divisible by 15 
+print fizzbuzzz
+else divisible by 5 
+print fizze
+else divisible by 3 
+print fizz
+
+const haverest = true;
+const sleepy = true;
+const drowsyness = haveMoney && hungry; 
+if buyburger = haveMoney && hungry; if (buy burger){
+
+    console.log("Buying Burger");
+}
+
+const coldDrink = false 
+const airCondOn = true 
+
+if(coldDrink || airCondOn){
+    console.log("Ahhhh")
+}
+
